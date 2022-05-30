@@ -1,4 +1,4 @@
-# Project 2: Analyzing 10Gb of Yelp Reviews Data
+# Project Name: Analyzing 10Gb of Yelp Reviews Data
 
  
 
