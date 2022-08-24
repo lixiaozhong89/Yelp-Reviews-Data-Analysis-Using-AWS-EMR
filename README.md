@@ -1,10 +1,10 @@
-# Project Name: Analyzing 10Gb of Yelp Reviews Data
+# Analysis of 10GB Yelp Reviews Data with PySpark (Scalable Analysis)
 
  
 
 ## Introduction
 
-For this project, I provisioned a Spark Cluster on AWS EMR for loading and running some analysis on Yelp’s Reviews and Businesses dataset (about 10gb) from [**Kaggle**](https://www.kaggle.com/yelp-dataset/yelp-dataset#yelp_academic_dataset_user.json). I ran my analysis via Jupyter Notebook and the expected output artifact is **Analysis.ipynb** file.
+For this project, I provisioned a Spark Cluster on AWS EMR for loading and running some analysis on Yelp’s Reviews and Businesses dataset (about 10gb) from [**Kaggle**](https://www.kaggle.com/yelp-dataset/yelp-dataset#yelp_academic_dataset_user.json). I conducted my analysis via Jupyter Notebook and the expected output artifact is **Analysis.ipynb** file.
 
 ## Requiremen
 
@@ -48,7 +48,7 @@ Performing analysis on table users and table reviews (join users and reviews). A
 
 
 
-### Part V (Optional):
+### Part V:
 
 1. Creating a table counting the total number of reviewers for each business ID, then running analysis to explore **the correlation between  number of reviewers and business ratings.**
 
